@@ -1,6 +1,6 @@
 {
   "name": "@stimulus/core",
-  "version": "2.0.0",
+  "version": "2.0.0-main.3bfd886",
   "description": "Stimulus JavaScript framework: Core library",
   "repository": "https://github.com/stimulusjs/stimulus",
   "author": "Basecamp, LLC",
@@ -14,8 +14,8 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "@stimulus/multimap": "^2.0.0",
-    "@stimulus/mutation-observers": "^2.0.0"
+    "@stimulus/multimap": "^2.0.0-main.3bfd886",
+    "@stimulus/mutation-observers": "^2.0.0-main.3bfd886"
   },
   "publishConfig": {
     "access": "public"
